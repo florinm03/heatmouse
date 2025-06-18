@@ -1,6 +1,9 @@
 # heatmouse
 Mouse Analytics Heatmap Tool
 
+# Example of a created dashboard
+![dashboard_20250617_182154](https://github.com/user-attachments/assets/112cbd09-1390-4e63-939d-e3623d207bf0)
+
 ### Setup
 
 ### Step 1: Create Project Directory
